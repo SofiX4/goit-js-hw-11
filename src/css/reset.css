@@ -25,6 +25,16 @@ a {
 
 button {
   cursor: pointer;
+  border-radius: 8px;
+  border-color: #4e75f4;
+  padding: 8px 16px;
+  width: 75px;
+  height: 40px;
+  background: #4e75ff;
+}
+
+button:hover {
+  background: #6c8cff;
 }
 
 img {
